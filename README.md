@@ -7,4 +7,5 @@
   <li>Allow the user to toggle a task's completion property by clicking the checkbox next to it. <li/>
 <ul/>
     
+ <h2>Finish Product<h2/>
 <img src="todo-list/src/components/FinishProduct.png" alt="Finish Product"> 
